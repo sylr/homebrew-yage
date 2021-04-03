@@ -2,8 +2,8 @@ class Yage < Formula
   desc "age with YAML support"
   homepage "https://github.com/sylr/yage"
   url "https://github.com/sylr/yage.git",
-      tag:      "v0.0.4",
-      revision: "4e957d58e13fb2557cdffa69b567849fa0bfe9c2"
+      tag:      "v0.0.5",
+      revision: "014939e23438206def21e231edb01ee31b30f18a"
 
   depends_on "make" => :build
   depends_on "git" => :build
